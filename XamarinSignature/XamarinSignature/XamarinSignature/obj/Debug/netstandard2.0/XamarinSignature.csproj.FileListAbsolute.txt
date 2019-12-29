@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\bin\Debug\netstandard2.0\XamarinSignature.deps.json
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\bin\Debug\netstandard2.0\XamarinSignature.dll
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\XamarinSignature.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\XamarinSignature.AssemblyInfo.cs
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\bin\Debug\netstandard2.0\ref\XamarinSignature.dll
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\bin\Debug\netstandard2.0\XamarinSignature.pdb
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\XamarinSignature.dll
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\ref\XamarinSignature.dll
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\XamarinSignature.pdb
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\StrokesPage.xaml.g.cs
+C:\Users\MSI\source\repos\XamarinSignature\XamarinSignature\XamarinSignature\obj\Debug\netstandard2.0\NewPage.xaml.g.cs
